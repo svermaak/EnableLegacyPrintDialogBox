@@ -14,7 +14,7 @@ This is useful on systems where the modern print UI is undesirable or causes com
 
 ## 🛠️ Build & Run Instructions
 1.  Clone the Repository
-    `git clone https://github.com/svermaak/EnableLegacyPrintDialogBox.git
+    `git clone https://github.com/svermaak/EnableLegacyPrintDialogBox.git  
     cd EnableLegacyPrintDialogBox` 
     
 2.  Restore NuGet Packages   
@@ -35,7 +35,7 @@ This is useful on systems where the modern print UI is undesirable or causes com
 ## 🧪 What It Does
 
 This utility sets the following registry key:
-`[HKEY_CURRENT_USER\Software\Microsoft\Print\UnifiedPrintDialog]
+`[HKEY_CURRENT_USER\Software\Microsoft\Print\UnifiedPrintDialog]  
 "PreferLegacyPrintDialog"=dword:00000001` 
 
 This forces Windows to use the classic print dialog instead of the modern "Unified Print" experience.
