@@ -57,7 +57,7 @@ This forces Windows to use the classic print dialog instead of the modern "Unifi
 
 ## 🔒 Admin Rights
 
-No admin rights are required. The key is under `HKCU`, so each user can configure this independently.
+No admin rights are required. The key is under `HKCU`, so each user can configure this independently.  
 However, endpoint protection software may block registry changes using `regedit`, `reg.exe`, or PowerShell.
 
 ----------
