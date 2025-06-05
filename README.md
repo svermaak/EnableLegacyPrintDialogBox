@@ -9,6 +9,7 @@ This is useful on systems where the modern print UI is undesirable or causes com
 ## ✅ Prerequisites
 - [.NET SDK 6.0 or later](https://dotnet.microsoft.com/en-us/download)  
   Check your version:
+
   ```
   dotnet --version
   ```
