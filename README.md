@@ -35,7 +35,7 @@ This is useful on systems where the modern print UI is undesirable or causes com
     ```
     bin\Release\net6.0\EnableLegacyPrintDialogBox.exe
     ```
-    Run it via terminal:
+5.  Run it via terminal:
     ```
     .\bin\Release\net6.0\EnableLegacyPrintDialogBox.exe
     ```    
