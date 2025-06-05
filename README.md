@@ -12,6 +12,10 @@ This is useful on systems where the modern print UI is undesirable or causes com
   ```
   dotnet --version
   ```
+- [Git](https://git-scm.com/downloads)
+  Required to clone the repository.
+
+
 
 ## 🛠️ Build & Run Instructions
 1.  Clone the Repository
