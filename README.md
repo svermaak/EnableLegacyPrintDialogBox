@@ -9,8 +9,9 @@ This is useful on systems where the modern print UI is undesirable or causes com
 ## ✅ Prerequisites
 - [.NET SDK 6.0 or later](https://dotnet.microsoft.com/en-us/download)  
   Check your version:
-  ```bash
+  ```
   dotnet --version
+  ```
 
 ## 🛠️ Build & Run Instructions
 1.  Clone the Repository
@@ -37,8 +38,7 @@ This is useful on systems where the modern print UI is undesirable or causes com
     Run it via terminal:
     ```
     .\bin\Release\net6.0\EnableLegacyPrintDialogBox.exe
-    ```
-    
+    ```    
 
 ----------
 
