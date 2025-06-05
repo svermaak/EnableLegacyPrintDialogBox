@@ -14,8 +14,9 @@ This is useful on systems where the modern print UI is undesirable or causes com
 
 ## 🛠️ Build & Run Instructions
 1.  Clone the Repository
-    `git clone https://github.com/svermaak/EnableLegacyPrintDialogBox.git  
-    cd EnableLegacyPrintDialogBox` 
+    `git clone https://github.com/svermaak/EnableLegacyPrintDialogBox.git
+
+    `cd EnableLegacyPrintDialogBox` 
     
 2.  Restore NuGet Packages   
     `dotnet restore` 
