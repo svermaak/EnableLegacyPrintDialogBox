@@ -1,0 +1,14 @@
+C:\Users\sverm\source\repos\EnableLegacyPrintDialogBox\EnableLegacyPrintDialogBox\bin\Debug\net8.0\EnableLegacyPrintDialogBox.exe
+C:\Users\sverm\source\repos\EnableLegacyPrintDialogBox\EnableLegacyPrintDialogBox\bin\Debug\net8.0\EnableLegacyPrintDialogBox.deps.json
+C:\Users\sverm\source\repos\EnableLegacyPrintDialogBox\EnableLegacyPrintDialogBox\bin\Debug\net8.0\EnableLegacyPrintDialogBox.runtimeconfig.json
+C:\Users\sverm\source\repos\EnableLegacyPrintDialogBox\EnableLegacyPrintDialogBox\bin\Debug\net8.0\EnableLegacyPrintDialogBox.dll
+C:\Users\sverm\source\repos\EnableLegacyPrintDialogBox\EnableLegacyPrintDialogBox\bin\Debug\net8.0\EnableLegacyPrintDialogBox.pdb
+C:\Users\sverm\source\repos\EnableLegacyPrintDialogBox\EnableLegacyPrintDialogBox\obj\Debug\net8.0\EnableLegacyPrintDialogBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverm\source\repos\EnableLegacyPrintDialogBox\EnableLegacyPrintDialogBox\obj\Debug\net8.0\EnableLegacyPrintDialogBox.AssemblyInfoInputs.cache
+C:\Users\sverm\source\repos\EnableLegacyPrintDialogBox\EnableLegacyPrintDialogBox\obj\Debug\net8.0\EnableLegacyPrintDialogBox.AssemblyInfo.cs
+C:\Users\sverm\source\repos\EnableLegacyPrintDialogBox\EnableLegacyPrintDialogBox\obj\Debug\net8.0\EnableLegacyPrintDialogBox.csproj.CoreCompileInputs.cache
+C:\Users\sverm\source\repos\EnableLegacyPrintDialogBox\EnableLegacyPrintDialogBox\obj\Debug\net8.0\EnableLegacyPrintDialogBox.dll
+C:\Users\sverm\source\repos\EnableLegacyPrintDialogBox\EnableLegacyPrintDialogBox\obj\Debug\net8.0\refint\EnableLegacyPrintDialogBox.dll
+C:\Users\sverm\source\repos\EnableLegacyPrintDialogBox\EnableLegacyPrintDialogBox\obj\Debug\net8.0\EnableLegacyPrintDialogBox.pdb
+C:\Users\sverm\source\repos\EnableLegacyPrintDialogBox\EnableLegacyPrintDialogBox\obj\Debug\net8.0\EnableLegacyPrintDialogBox.genruntimeconfig.cache
+C:\Users\sverm\source\repos\EnableLegacyPrintDialogBox\EnableLegacyPrintDialogBox\obj\Debug\net8.0\ref\EnableLegacyPrintDialogBox.dll
