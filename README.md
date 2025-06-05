@@ -11,7 +11,8 @@ This is useful on systems where the modern print UI is undesirable or causes com
   Check your version:
   ```bash
   dotnet --version
-## Build & Run Instructions
+
+## 🛠️ Build & Run Instructions
 1.  Clone the Repository
     `git clone https://github.com/svermaak/EnableLegacyPrintDialogBox.git
     cd EnableLegacyPrintDialogBox` 
