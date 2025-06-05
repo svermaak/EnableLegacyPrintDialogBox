@@ -19,17 +19,25 @@ This is useful on systems where the modern print UI is undesirable or causes com
     cd EnableLegacyPrintDialogBox
     ```
     
-2.  Restore NuGet Packages   
-    `dotnet restore` 
+2.  Restore NuGet Packages
+    ```
+    dotnet restore
+    ```
     
 3.  Build the Project
-    `dotnet build --configuration Release` 
+    ```
+    dotnet build --configuration Release
+    ```
     
 4.  Run the Executable  
-    After building, find the executable at:     
-    `bin\Release\net6.0\EnableLegacyPrintDialogBox.exe` 
+    After building, find the executable at:
+    ```
+    bin\Release\net6.0\EnableLegacyPrintDialogBox.exe
+    ```
     Run it via terminal:
-    `.\bin\Release\net6.0\EnableLegacyPrintDialogBox.exe` 
+    ```
+    .\bin\Release\net6.0\EnableLegacyPrintDialogBox.exe
+    ```
     
 
 ----------
